@@ -83,13 +83,13 @@ This project is part of a Data Analyst Internship assignment. The goal was to de
 
 ## 📌 GitHub Link
 
-🔗 (https://github.com/jugal101/Data-Analysis-Task-3)
+🔗 (https://github.com/srushti20033/Data-analyst/edit/main/Data-Analysis-Task-3-main/README.md)
 
 ---
 
 ## 🙋‍♂️ Author
 
-**Name:** Jugal Mistry 
+**Name:** Srushti Patel 
 **Role:** Data Analyst Intern  
 **Date:** June 2025
 
